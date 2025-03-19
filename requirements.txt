@@ -1,0 +1,9 @@
+pyaudio
+wave
+numpy
+librosa
+scipy
+tensorflow
+torch
+speechbrain
+pyttsx3

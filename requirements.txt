@@ -3,7 +3,7 @@ wave
 numpy
 librosa
 scipy
-tensorflow
+tensorflow==2.13.0  # Adjust if needed
 torch
 speechbrain
 pyttsx3
